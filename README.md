@@ -1,1 +1,4 @@
 # ProgettoProva
+Pippo
+Pluto
+Paperino
